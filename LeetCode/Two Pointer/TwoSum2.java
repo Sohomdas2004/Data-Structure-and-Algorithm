@@ -1,4 +1,5 @@
-class Solution {
+//Leetcode 167. Two Sum II - Input Array Is Sorted
+class TwoSum2 {
     public int[] twoSum(int[] numbers, int target) {
         int res[]=new int[2];
         int start,end;
