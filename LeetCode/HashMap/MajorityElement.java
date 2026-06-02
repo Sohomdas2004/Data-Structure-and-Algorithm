@@ -1,3 +1,5 @@
+//Leetcode 169. Majority Element
+
 import java.util.HashMap;
 
 public class MajorityElement {
